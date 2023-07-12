@@ -9,9 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: gautamigupta0620@gmail.com
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ##  GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Gautami20&show_icons=true)
 
