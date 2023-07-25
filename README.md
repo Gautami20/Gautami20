@@ -1,20 +1,20 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="www.linkedin.com/in/gautami-gupta-ab12b824a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/gautami028/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-<h1>
+  <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="150"/>
+  <div id="badges">
+    <a href="www.linkedin.com/in/gautami-gupta-ab12b824a">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/gautami028/">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
+  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 <div align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="400" height="350"/>
 </div>
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
