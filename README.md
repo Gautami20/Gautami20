@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="150"/>
   <div id="badges">
-    <a href="www.linkedin.com/in/gautami-gupta-ab12b824a">
+    <a href="https://www.linkedin.com/in/gautami-gupta-ab12b824a">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/gautami028/">
